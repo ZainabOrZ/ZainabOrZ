@@ -1,6 +1,5 @@
-<p align="center">
-  Ayo what's good everyone? 👋 <br>
-  My name is Zainab (Zay.nab) but I prefer to be called Z
+<p align="center"> #Ayo what's good everyone? 👋 <br>
+  ###My name is Zainab (Zay.nab) but I prefer to be called Z
 </p>
 
 - 🔭 I’m currently working on getting more familiar with Git and GitHub (I know they aren't the same thing)
