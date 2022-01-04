@@ -9,5 +9,5 @@
 - 💬 Ask me about absolutely anything, I am an open book!
 - 📫 How to reach me: all of my links are here https://linktr.ee/Zainabinte Contact me however you feel most comfortable
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My favorite color is blue, my favorite sci-fi is Aliens, its cats >>> dogs sorry not sorry
+- ⚡ Fun fact: My favorite color is blue, my favorite sci-fi is Aliens & it is cats > dogs for me, sorry not sorry
 
